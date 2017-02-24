@@ -34,7 +34,7 @@ Used these two files to test the program
 
 ##Prerequisites
 
-a. Download the below mentioned jars and configure into project build path
+Download the below mentioned jars and configure into project build path
 
 hadoop-common-2.7.0.jar
 
