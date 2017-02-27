@@ -1,6 +1,6 @@
 
 ##Objective 
-####To find the highest and average score of a class for packed data using Hive User Defined Aggregating Function(UDAF) and System Defined Function(SDF)
+####To find the highest and average score of a class for packed data using Hive User Defined Aggregating Function(UDAF) and System Defined Function(SDF) on AWS platform
 
 The format of the record is
  <class_id><student_id><score>
